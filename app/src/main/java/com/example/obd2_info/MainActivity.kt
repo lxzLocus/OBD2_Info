@@ -34,6 +34,11 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
+@Composable
+fun Obd(){
+
+}
+
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
